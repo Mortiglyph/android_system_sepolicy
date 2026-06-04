@@ -26,6 +26,7 @@ type rkpd_registrar_service,         service_manager_type;
 type rkpd_refresh_service,           service_manager_type;
 type rkp_cert_processor_service,     service_manager_type;
 type safety_center_service,          app_api_service, system_api_service, system_server_service, service_manager_type;
+type sidebar_service,                app_api_service, system_server_service, service_manager_type;
 type stats_service,                  service_manager_type;
 type statsbootstrap_service,         system_server_service, service_manager_type;
 type statscompanion_service,         system_server_service, service_manager_type;

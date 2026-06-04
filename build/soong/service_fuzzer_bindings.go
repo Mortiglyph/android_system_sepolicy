@@ -454,6 +454,7 @@ var (
 		"servicediscovery":                       EXCEPTION_NO_FUZZER,
 		"manager":                                []string{"servicemanager_fuzzer"},
 		"settings":                               EXCEPTION_NO_FUZZER,
+		"sidebar":                                EXCEPTION_NO_FUZZER,
 		"shortcut":                               EXCEPTION_NO_FUZZER,
 		"simphonebook_msim":                      EXCEPTION_NO_FUZZER,
 		"simphonebook2":                          EXCEPTION_NO_FUZZER,
